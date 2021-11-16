@@ -6,7 +6,7 @@
   "author": "Hai Phan",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.7.17",
+    "aws-sdk": "^2.814.0",
     "cheerio": "^0.22.0",
     "entities": "^1.1.1",
     "request": "^2.79.0"
